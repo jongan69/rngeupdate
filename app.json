@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "React Native Game Engine - Handbook",
+    "description": "A React Native app showcasing some examples using the lightweight https://github.com/bberak/react-native-game-engine library.",
+    "slug": "react-native-game-engine-handbook",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#E96443",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#904E95"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
